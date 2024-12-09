@@ -29,7 +29,6 @@ function Projects() {
               description=" NewsApp is website based on react js which will give information related to news of the mentioned country from the newsApi. user can see and read the
               news articles of different category by clicking the read more button."
               ghLink="https://github.com/VishalVish740/NewsApp"
-              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -41,7 +40,6 @@ function Projects() {
               description="TextUtils is word counter, character counter, remove extra spaces, convert uppercase to lowercase and lowercase to uppercase website based on react js and html and css. 
               You can use use text area to write something and perform the function with the help of buttons. "
               ghLink="https://github.com/VishalVish740/TextUtils"
-              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -53,7 +51,6 @@ function Projects() {
               description="Diabetes Prediction is a machine learning web application which predicts whether the patient whose details have been entered is diabetic or not. There are various parameters on which this model
               will predict the condition. Some of them include the BMI (Body Mass Index), the glucose intake, diastolic blood pressure,skin thickness, age etc."
               ghLink="https://github.com/VishalVish740/"
-              // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
@@ -65,7 +62,6 @@ function Projects() {
               description="“Online Warehouse, E-Commerce Website for buying Products.” it is Django based website
               which is built using bootstrap, JavaScript and python framework library Django planned to control by the different Databases, which is sqlite"
               ghLink="https://github.com/VishalVish740/Online-Warehouse"
-              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
@@ -77,7 +73,7 @@ function Projects() {
               description="JustScantIt-A Barcode scanner android app for buying and Selling Products. It is a software which is
               planned to control by the different Databases, which will be in-builded into the software."
               ghLink="https://github.com/VishalVish740/ScanForPay"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+            // demoLink="" <--------Please include a demo link here
             />
           </Col>
 
@@ -89,7 +85,7 @@ function Projects() {
               description="A Balloon Shooter game in Python involves creating a simple arcade-style game where the player shoots colored Balloons at a cluster of Balloons. 
               The goal is to match three or more Balloons of the same color to make them disappear. The player wins by clearing all the Balloons or loses if the Balloons fill the screen."
               ghLink="https://github.com/VishalVish740/Balloon-Shooter"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+
             />
           </Col>
         </Row>
